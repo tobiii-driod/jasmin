@@ -1002,22 +1002,22 @@ ul {
 
  
 .slider_black .slider_content p {
-  color: magenta;
+  color: white;
   font-size: 18px;
   margin-bottom: 0;
   line-height: 22px;
 }
 
 .slider_black .slider_content p.slider_price {
-  color: magenta;
+  color: white;
 }
 .slider_black .slider_content p.slider_price span {
-  color: magenta;
+  color: white;
   margin-bottom: 0;
 }
 
 .slider_black .slider_content h1 {
-  color: magenta;
+  color: white;
   font-weight: 400;
   margin-bottom: 10px;
   font-family: "Baloo 2", serif;
@@ -1046,7 +1046,7 @@ ul {
 }
 
 .slider_black .slider_content a {
-  background: magenta;
+  background: black;
   margin-top: 30px;
 }
 
